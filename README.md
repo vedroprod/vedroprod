@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vedroprod
+- 👀 I’m interested in code, design and geo
+- 🌱 I’m currently learning Java, Kotlin, Python
+- ⚡ Fun fact: i'm not a droid🙃
