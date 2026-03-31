@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @vedroprod
-- 👀 I’m interested in code, design and geo
-- 🌱 I’m currently learning C#, Kotlin, Python
-- ⚡ Fun fact: i'm not a droid🙃
+# Привет!
+
+На связи [kartograferus](https://github.com/kartograferus). Это - мой проектный аккаунт, здесь я выкладываю какие-либо крупные проекты, над которыми работаю.
+Среди них есть:
+
+**[OSM.AE](https://github.com/vedroprod/osm.ae)** - продвинутый редактор карт OSM с упором на работу с транспортом. Стек - AvaloniaUI, C#. В текущий момент разработка приостановлена
+
+**MEDICAL BI ([frontend](https://github.com/vedroprod/frontend)+[backend](https://github.com/vedroprod/backend))** - BI-инструмент для анализа и работы с медицинскими датасетами. Помогает отфильтровать и найти какие-либо корелляции в данных. Предзагружен очищенный датасет eICU, ограничен 10К строками. Стек - node.js+React. Полностью контейнеризированный пайплайн. Сделан в рамках проектной практики в магистратуре МОиАИС ТюмГУ. Периодически обновляется
+
+**ArcMine** - проект переноса игры Arc Raiders в Minecraft без модов (силами плагинов). Поддержка Paper и Velocity. Стек - java. Обновляется регулярно. В текущий момент репозиторий приватный(до момента реализации собственного сервера), показ по запросу
+
+Coming soon...
